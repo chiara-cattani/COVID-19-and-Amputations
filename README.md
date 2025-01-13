@@ -7,6 +7,13 @@ The study employs direct and indirect standardization methods, logistic regressi
 
 ---
 
+## Key Findings
+- A significant increase in amputation rates in 2021 compared to 2019, highlighting the potential indirect impact of the pandemic on diabetic care.
+- Identification of risk factors, including age, sex, race, and severity of diabetes, that significantly influence amputation likelihood.
+- ROC curve analysis showing strong predictive performance for models incorporating clinical severity and demographic factors.
+
+---
+
 ## Key Features
 - **Data Analysis**: In-depth analysis of hospital inpatient discharges focusing on diabetic patients undergoing LEA.
 - **Standardization Techniques**: Application of direct and indirect standardization methods to adjust for population composition differences.
@@ -41,14 +48,6 @@ The study employs direct and indirect standardization methods, logistic regressi
 
 ### ROC Curve
 ![ROC Curve](output/ROC_Curve_Comparison.png)
-
----
-
-## Results
-Key findings from the analysis include:
-- A significant increase in amputation rates in 2021 compared to 2019, highlighting the potential indirect impact of the pandemic on diabetic care.
-- Identification of risk factors, including age, sex, race, and severity of diabetes, that significantly influence amputation likelihood.
-- ROC curve analysis showing strong predictive performance for models incorporating clinical severity and demographic factors.
 
 ---
 
